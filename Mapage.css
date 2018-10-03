@@ -1,0 +1,123 @@
+body {
+	background-color: lightblue;
+	color: ;
+	font-family: Palatino;
+	font-size: 19px;
+}
+h1{
+	font-family: Selima;
+	font-weight: 50px;
+	font-size: 60px;
+	margin: 25px 15px 15px;
+  	color: rgb(20,20,20);
+  	line-height: 50px;
+
+}
+h2{
+	line-height: 0px;
+	font-size: 30px;
+	font-family: ;
+	font-weight: bold;
+	color:#87CEEB;
+}
+h3{
+	font-family: Merienda;
+}
+a {
+  color: rgb(20,20,20);
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 560;
+}
+p{
+
+}
+
+#body-container{
+	margin-left: 80px;
+}
+.container{
+	width: 50%;
+  	margin: 30px auto;
+}
+.bloc-blanc{
+	background-color: white;
+  	padding: 50px;
+  	border-radius: 5px;
+ 	box-shadow: 1px 1px 3px rgba(1,1,1,1);
+ 	margin: 13px auto;
+}
+.text-center{
+	text-align: center;
+}
+.icon{
+	width: 220px;
+	height: 182px;
+    border-radius:11%;
+    box-shadow: 1px 0px 0px lightblue;
+    margin: 5%;
+    padding: 10%;
+
+}
+.liste {
+  padding-left: 0;
+  font-family: Merienda;
+}
+.liste li {
+  display: inline-block;
+  text-decoration: underline, none;
+  padding: 25px;
+}
+.liste li i {
+  font-size: 45px;
+}
+.photo{
+	width: 35%;
+	box-shadow: 5px 5px 5px lightblue;
+	border-radius: 50%;
+}
+#facebook{
+	color: #3b5998;
+}
+#twitter{
+	color:#2bc4ff;
+}
+#linkedin{
+	color: #0e76a8;
+}
+#instagram{
+	color: #cd486b;
+}
+#lien{
+	background-color: lightblue;
+	border-radius: 10%;
+	padding: 10px;
+	margin
+	line-height: 50px;
+}
+#name{
+	font-family: Selima;
+	font-weight: 50px;
+	font-size: 42px;
+	margin: 25px 15px 15px;
+  	color: rgb(20,20,20);
+  	line-height: 50px;
+}
+.Adobe{
+	width: 35px;
+}
+.merienda-orange{
+	font-family: Merienda;
+	color: orange;
+	font-weight: bold;
+}
+.merienda-blue{
+	font-family: Merienda;
+	color: #2eb8b8;
+	font-weight: bold;
+}
+.merienda-green{
+	font-family: Merienda;
+	color: green;
+	font-weight: bold;
+}
