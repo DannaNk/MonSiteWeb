@@ -51,12 +51,12 @@ p{
 	text-align: center;
 }
 .icon{
-	width: 220px;
-	height: 182px;
+	width: 160px;
+	height: 170px;
     border-radius:11%;
     box-shadow: 1px 0px 0px lightblue;
-    margin: 5%;
-    padding: 10%;
+    margin: 15%;
+    padding: 5%;
 
 }
 .liste {
@@ -120,4 +120,22 @@ p{
 	font-family: Merienda;
 	color: green;
 	font-weight: bold;
+}
+.titre-merienda-orange{
+	font-family: Merienda;
+	color: orange;
+	font-weight: bold;
+	font-size: 25px;
+}
+.titre-merienda-blue{
+	font-family: Merienda;
+	color: #2eb8b8;
+	font-weight: bold;
+	font-size: 25px;
+}
+.titre-merienda-green{
+	font-family: Merienda;
+	color: green;
+	font-weight: bold;
+	font-size: 25px;
 }
