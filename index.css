@@ -1,8 +1,9 @@
 body {
 	background-color: lightblue;
 	color: ;
-	font-family: Palatino;
+	font-family: Balham;
 	font-size: 19px;
+	font-weight: bold;
 }
 h1{
 	font-family: Selima;
@@ -10,13 +11,13 @@ h1{
 	font-size: 60px;
 	margin: 25px 15px 15px;
   	color: rgb(20,20,20);
-  	line-height: 50px;
+  	line-height: 80px;
 
 }
 h2{
 	line-height: 0px;
 	font-size: 30px;
-	font-family: ;
+	font-family: Balham;
 	font-weight: bold;
 	color:#87CEEB;
 }
@@ -69,10 +70,10 @@ p{
   padding: 25px;
 }
 .liste li i {
-  font-size: 45px;
+  font-size: 40px;
 }
 .photo{
-	width: 35%;
+	width: 50%;
 	box-shadow: 5px 5px 5px lightblue;
 	border-radius: 50%;
 }
@@ -94,6 +95,9 @@ p{
 	padding: 10px;
 	margin
 	line-height: 50px;
+	font-family: Merienda;
+	font-weight: bold;
+	font-size: 18kpx;
 }
 #name{
 	font-family: Selima;
